@@ -1,3 +1,7 @@
+# DATABASE  
+1. https://rapidapi.com/wirefreethought/api/geodb-cities
+2. https://openweathermap.org/api/one-call-api
+
 <a href= ""> <img src="https://user-images.githubusercontent.com/72417655/195982589-608682e5-63bf-4c35-bfcc-eefac8bfaee6.png" width="195" height="400" />
 <img src="https://user-images.githubusercontent.com/72417655/195982590-53b3bf79-9a18-46ae-af6e-5ef2140d5e91.png" width="195" height="400" />
 <img src="https://user-images.githubusercontent.com/72417655/195982594-bfaef8c2-abf8-489d-ae9d-3affbc635917.png" width="195" height="400" />
@@ -5,7 +9,6 @@
 
 
 https://user-images.githubusercontent.com/72417655/195982648-c7e885e5-4496-4f30-8c66-a9f74923fe1a.mov
-
 
 
 
